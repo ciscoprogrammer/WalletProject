@@ -26,7 +26,7 @@ Things you need to install  and how to install them:
 - SQL Server
 - Git
 
-- 
+  
 
 ### Installing
 
