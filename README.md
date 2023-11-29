@@ -32,17 +32,23 @@ Things you need to install  and how to install them:
 
 ## A step-by-step series of examples that tell you how to get a development environment running:
 
+
 1. Clone the repository:
 
 git clone https://github.com/ciscoprogrammer/WalletProject.git
 
 
-2.Navigate to the project directory:
-
-cd WalletProject
 
 
-3.Install dependencies:
+2.  Navigate to the project directory:
+
+
+cd   WalletProject
+
+
+
+
+3. Install dependencies:
 
 npm install
 
